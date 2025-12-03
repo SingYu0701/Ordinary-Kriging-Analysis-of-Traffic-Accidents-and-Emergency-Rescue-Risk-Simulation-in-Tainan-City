@@ -66,7 +66,6 @@ filtered_df$prob<-fitted(fit1)
 mapview(filtered_df, zcol='prob')
 ####
 
-# 进行variogram分析
 
 mapview(data, zcol='test')
 Var.exp = variogram(test~1, data)
@@ -183,3 +182,4 @@ mapview(LOO, zcol='residual', na.color="transparent")
 simulated_c <- krige(prob~1, data, grd_c, model=Var.theo1, nmax=12, nmin=8,nsim=4) # ordinary kriging simulation
 spplot(simulated_c, key.space = "right")
 mapview(simulated_c, na.color="transparent")
+
