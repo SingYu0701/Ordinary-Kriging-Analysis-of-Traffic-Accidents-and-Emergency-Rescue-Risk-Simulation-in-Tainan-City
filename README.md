@@ -143,3 +143,21 @@ Reflects delays in emergency response and hospital accessibility.
 - **Optimized ambulance dispatch**
 
 - **Improved emergency infrastructure in remote districts**
+
+## Reference
+
+Agresti, A. (2019). An introduction to categorical data analysis (3rd ed.). Hoboken, NJ: John Wiley & Sons.
+
+Bolstad, W. M. (2007). Introduction to Bayesian Statistics, 2nd edition, Wiley.
+
+Cressie, N. (1993). Statistics for Spatial Data. Wiley Interscience.
+
+Gomes, M. M., Pitombo, C. S., Pirdavani, A., & Brijs, T. (2018). Geostatistical approach to estimate car occupant fatalities in traffic accidents. Revista Brasileira de Cartografia, 70(4), 1231–1256. Available in: https://doi.org/10.14393/rbcv70n4-46140. Accessed on: June 05, 2021
+
+Krige, D. G. (1951). A statistical approach to some mine valuations and allied problems at the Witwatersrand (Master's thesis). University of Witwatersrand.
+
+Matheron, Georges (1963). "Principles of geostatistics". Economic Geology. 58 (8): 1246–1266. doi:10.2113/gsecongeo.58.8.1246. ISSN 1554-0774.
+
+Shapiro, S. S.; Wilk, M. B. (1965). "An analysis of variance test for normality (complete samples)". Biometrika. 52 (3–4): 591–611. doi:10.1093/biomet/52.3-4.591. JSTOR 2333709. MR 0205384. p. 593
+
+Thakali, L., Kwon, T.J., & Fu, L. (2015). Identification of crash hotspots using kernel density estimation and kriging methods: a comparison. J. Mod. Transport., 23, 93–106. https://doi.org/10.1007/s40534-015-0068-0
